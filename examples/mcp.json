@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wiser-human-escalation": {
+      "type": "http",
+      "url": "https://escalate.wiserhuman.ai/mcp"
+    }
+  }
+}
